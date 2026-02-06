@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Obi, an <a href="https://www.linkedin.com/in/chukuemeka-obi-okpara-18b5a0159/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
